@@ -11,4 +11,5 @@ basic.forever(function () {
     PingUnit.Centimeters
     )
     basic.showNumber(distancetoobject)
+    basic.pause(500)
 })
